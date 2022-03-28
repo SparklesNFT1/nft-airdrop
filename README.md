@@ -32,7 +32,7 @@ Example:
 
 ### Create Airdrop Addresses
 
-1. User the `airdrop.xlsx` template and upload to: https://beautifytools.com/excel-to-json-converter.php
+1. Use the `airdrop.xlsx` template to populate addresses and upload to: https://beautifytools.com/excel-to-json-converter.php
 
 2. Copy the output to `./scripts/payload.json`
 
